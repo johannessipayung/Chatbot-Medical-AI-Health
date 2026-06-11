@@ -31,3 +31,11 @@
 {"timestamp": "2026-06-11T10:18:28.607323Z", "event": "request_received", "payload": {"question": "Kasih cara dan dosis overdose obat."}}
 {"timestamp": "2026-06-11T10:18:49.906640Z", "event": "request_received", "payload": {"question": "Kasih cara dan dosis overdose obat."}}
 {"timestamp": "2026-06-11T10:18:49.930813Z", "event": "guardrail_decision", "payload": {"action": "BLOCK", "reason": "harmful_request", "flags": {"prompt_injection": false, "harmful": true, "urgent": false, "urgent_severity": null}}}
+{"timestamp": "2026-06-11T10:23:47.226350Z", "event": "request_received", "payload": {"question": "Apa panduan praktik klinis untuk dokter di fasilitas tingkat pertama?"}}
+{"timestamp": "2026-06-11T10:23:47.228175Z", "event": "guardrail_decision", "payload": {"action": "PASS", "reason": "ok", "flags": {"prompt_injection": false, "harmful": false, "urgent": false, "urgent_severity": null}}}
+{"timestamp": "2026-06-11T10:24:09.009920Z", "event": "request_received", "payload": {"question": "Bagaimana langkah pencegahan dan pengendalian COVID-19?"}}
+{"timestamp": "2026-06-11T10:24:09.012458Z", "event": "guardrail_decision", "payload": {"action": "PASS", "reason": "ok", "flags": {"prompt_injection": false, "harmful": false, "urgent": false, "urgent_severity": null}}}
+{"timestamp": "2026-06-11T10:24:26.632137Z", "event": "request_received", "payload": {"question": "Apa tata laksana untuk pasien Diabetes Melitus Tipe 2?"}}
+{"timestamp": "2026-06-11T10:24:26.633779Z", "event": "guardrail_decision", "payload": {"action": "PASS", "reason": "ok", "flags": {"prompt_injection": false, "harmful": false, "urgent": false, "urgent_severity": null}}}
+{"timestamp": "2026-06-11T10:24:45.362087Z", "event": "request_received", "payload": {"question": "Apa pedoman tatalaksana Penyakit Paru Obstruktif Kronik (PPOK)?"}}
+{"timestamp": "2026-06-11T10:24:45.362873Z", "event": "guardrail_decision", "payload": {"action": "PASS", "reason": "ok", "flags": {"prompt_injection": false, "harmful": false, "urgent": false, "urgent_severity": null}}}

@@ -1,0 +1,152 @@
+{
+  "retrieval": [
+    {
+      "id": 1,
+      "query": "Apa panduan praktik klinis untuk dokter di fasilitas tingkat pertama?",
+      "relevant": [
+        { 
+          "source_contains": "PERUBAHAN ATAS KEPUTUSAN MENTERI KESEHATAN NOMOR HK.01.07:MENKES:1186:2022 TENTANG PANDUAN PRAKTIK KLINIS BAGI DOKTER DI FASILITAS PELAYANAN KESEHATAN TINGKAT PERTAMA.pdf", 
+          "page": 1 
+        },
+        { 
+          "source_contains": "PERUBAHAN ATAS KEPUTUSAN MENTERI KESEHATAN NOMOR HK.01.07:MENKES:1186:2022 TENTANG PANDUAN PRAKTIK KLINIS BAGI DOKTER DI FASILITAS PELAYANAN KESEHATAN TINGKAT PERTAMA.pdf", 
+          "page": 11 
+        },
+        { 
+          "source_contains": "PERUBAHAN ATAS KEPUTUSAN MENTERI KESEHATAN NOMOR HK.01.07:MENKES:1186:2022 TENTANG PANDUAN PRAKTIK KLINIS BAGI DOKTER DI FASILITAS PELAYANAN KESEHATAN TINGKAT PERTAMA.pdf", 
+          "page": 8 
+        },
+        { 
+          "source_contains": "PERUBAHAN ATAS KEPUTUSAN MENTERI KESEHATAN NOMOR HK.01.07:MENKES:1186:2022 TENTANG PANDUAN PRAKTIK KLINIS BAGI DOKTER DI FASILITAS PELAYANAN KESEHATAN TINGKAT PERTAMA.pdf", 
+          "page": 9 
+        },
+        { 
+          "source_contains": "PANDUAN PRAKTIK KLINIS BAGI DOKTER DI FASILITAS PELAYANAN KESEHATAN TINGKAT PERTAMA.pdf", 
+          "page": 8 
+        },
+        { 
+          "source_contains": "PANDUAN PRAKTIK KLINIS BAGI DOKTER DI FASILITAS PELAYANAN KESEHATAN TINGKAT PERTAMA.pdf", 
+          "page": 9 
+        },
+        { 
+          "source_contains": "PANDUAN PRAKTIK KLINIS BAGI DOKTER DI FASILITAS PELAYANAN KESEHATAN TINGKAT PERTAMA.pdf", 
+          "page": 11 
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "query": "Bagaimana langkah pencegahan dan pengendalian COVID-19?",
+      "relevant": [
+        { 
+          "source_contains": "Pedoman Pencegahan dan Pengendalian COVID-19.pdf", 
+          "page": 80 
+        },
+        { 
+          "source_contains": "Pedoman Pencegahan dan Pengendalian COVID-19.pdf", 
+          "page": 39 
+        },
+        { 
+          "source_contains": "Pedoman Pencegahan dan Pengendalian COVID-19.pdf", 
+          "page": 121 
+        },
+        { 
+          "source_contains": "Pedoman Pencegahan dan Pengendalian COVID-19.pdf", 
+          "page": 19 
+        },
+        { 
+          "source_contains": "Pedoman Pencegahan dan Pengendalian COVID-19.pdf", 
+          "page": 167 
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "query": "Apa tata laksana untuk pasien Diabetes Melitus Tipe 2?",
+      "relevant": [
+        { 
+          "source_contains": "PEDOMAN NASIONAL PELAYANAN KEDOKTERAN TATA LAKSANA DIABETES MELITUS TIPE 2 DEWASA.pdf", 
+          "page": 5 
+        },
+        { 
+          "source_contains": "PEDOMAN NASIONAL PELAYANAN KEDOKTERAN TATA LAKSANA DIABETES MELITUS TIPE 2 DEWASA.pdf", 
+          "page": 6 
+        },
+        { 
+          "source_contains": "PANDUAN PRAKTIK KLINIS BAGI DOKTER DI FASILITAS PELAYANAN KESEHATAN TINGKAT PERTAMA.pdf", 
+          "page": 658 
+        },
+        { 
+          "source_contains": "PANDUAN PRAKTIK KLINIS BAGI DOKTER DI FASILITAS PELAYANAN KESEHATAN TINGKAT PERTAMA.pdf", 
+          "page": 659 
+        },
+        { 
+          "source_contains": "PANDUAN PRAKTIK KLINIS BAGI DOKTER DI FASILITAS PELAYANAN KESEHATAN TINGKAT PERTAMA.pdf", 
+          "page": 660 
+        },
+        { 
+          "source_contains": "PANDUAN PRAKTIK KLINIS BAGI DOKTER DI FASILITAS PELAYANAN KESEHATAN TINGKAT PERTAMA.pdf", 
+          "page": 661 
+        },
+        { 
+          "source_contains": "PEDOMAN NASIONAL PELAYANAN KEDOKTERAN TATA LAKSANA DIABETES MELITUS TIPE 2 DEWASA.pdf", 
+          "page": 72 
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "query": "Apa pedoman tatalaksana Penyakit Paru Obstruktif Kronik (PPOK)?",
+      "relevant": [
+        { 
+          "source_contains": "PEDOMAN NASIONAL PELAYANAN KEDOKTERAN TATA LAKSANA PENYAKIT PARU OBSTRUKTIF KRONIK.pdf", 
+          "page": 1 
+        },
+        { 
+          "source_contains": "PEDOMAN NASIONAL PELAYANAN KEDOKTERAN TATA LAKSANA PENYAKIT PARU OBSTRUKTIF KRONIK.pdf", 
+          "page": 2 
+        },
+        { 
+          "source_contains": "PEDOMAN NASIONAL PELAYANAN KEDOKTERAN TATA LAKSANA PENYAKIT PARU OBSTRUKTIF KRONIK.pdf", 
+          "page": 3 
+        },
+        { 
+          "source_contains": "PEDOMAN NASIONAL PELAYANAN KEDOKTERAN TATA LAKSANA PENYAKIT PARU OBSTRUKTIF KRONIK.pdf", 
+          "page": 4 
+        },
+        { 
+          "source_contains": "PEDOMAN NASIONAL PELAYANAN KEDOKTERAN TATA LAKSANA PENYAKIT PARU OBSTRUKTIF KRONIK.pdf", 
+          "page": 5 
+        },
+        { 
+          "source_contains": "PEDOMAN NASIONAL PELAYANAN KEDOKTERAN TATA LAKSANA PENYAKIT PARU OBSTRUKTIF KRONIK.pdf", 
+          "page": 11 
+        },
+        { 
+          "source_contains": "PEDOMAN NASIONAL PELAYANAN KEDOKTERAN TATA LAKSANA PENYAKIT PARU OBSTRUKTIF KRONIK.pdf", 
+          "page": 30 
+        },
+        { 
+          "source_contains": "PEDOMAN NASIONAL PELAYANAN KEDOKTERAN TATA LAKSANA PENYAKIT PARU OBSTRUKTIF KRONIK.pdf", 
+          "page": 75 
+        },
+        { 
+          "source_contains": "PEDOMAN NASIONAL PELAYANAN KEDOKTERAN TATA LAKSANA PENYAKIT PARU OBSTRUKTIF KRONIK.pdf", 
+          "page": 76 
+        },
+        { 
+          "source_contains": "PEDOMAN NASIONAL PELAYANAN KEDOKTERAN TATA LAKSANA PENYAKIT PARU OBSTRUKTIF KRONIK.pdf", 
+          "page": 84 
+        },
+        { 
+          "source_contains": "PEDOMAN NASIONAL PELAYANAN KEDOKTERAN TATA LAKSANA PENYAKIT PARU OBSTRUKTIF KRONIK.pdf", 
+          "page": 85 
+        },
+        { 
+          "source_contains": "PERUBAHAN ATAS KEPUTUSAN MENTERI KESEHATAN NOMOR HK.01.07:MENKES:1186:2022 TENTANG PANDUAN PRAKTIK KLINIS BAGI DOKTER DI FASILITAS PELAYANAN KESEHATAN TINGKAT PERTAMA.pdf", 
+          "page": 10 
+        }
+      ]
+    }
+  ]
+}
