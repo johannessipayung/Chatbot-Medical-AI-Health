@@ -272,7 +272,7 @@ else:
         st.markdown("### 📊 Results")
         
         # Metrics Row
-        col1, col2, col3, col4 = st.columns(4)
+        col1, col2, col3 = st.columns(3)
         with col1:
             if result.get("triage_urgent"):
                 status = "🚨 URGENT"
@@ -284,16 +284,12 @@ else:
                 status = "✅ PASS"
                 color = "#51CF66"
             st.markdown(f'<div class="metric-box" style="border-top: 4px solid {color}"><h4>Status</h4><h3>{status}</h3></div>', unsafe_allow_html=True)
-        
+
         with col2:
-            conf = result.get("confidence_score", 0)
-            st.markdown(f'<div class="metric-box"><h4>Confidence</h4><h3>{conf:.2%}</h3></div>', unsafe_allow_html=True)
-        
-        with col3:
             cost = result.get("estimated_cost", 0)
             st.markdown(f'<div class="metric-box"><h4>Estimated Cost</h4><h3>${cost:.4f}</h3></div>', unsafe_allow_html=True)
         
-        with col4:
+        with col3:
             proc_time = result.get("processing_time", 0)
             st.markdown(f'<div class="metric-box"><h4>Processing Time</h4><h3>{proc_time:.2f}s</h3></div>', unsafe_allow_html=True)
         
