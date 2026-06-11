@@ -1,0 +1,67 @@
+# =========================
+# FASTAPI
+# =========================
+fastapi==0.115.0
+uvicorn==0.30.6
+starlette==0.38.6
+
+# =========================
+# CORE
+# =========================
+python-dotenv==1.0.1
+pydantic==2.9.2
+pydantic-settings==2.6.1
+
+# =========================
+# LANGCHAIN ECOSYSTEM
+# =========================
+langchain==0.3.14
+langchain-core==0.3.29
+langchain-community==0.3.14
+langchain-openai==0.2.14
+langgraph==0.2.62
+
+# =========================
+# CREW AI
+# =========================
+crewai==0.95.0
+litellm==1.57.4
+
+# =========================
+# EMBEDDING / RAG
+# =========================
+sentence-transformers==3.3.1
+transformers==4.47.1
+faiss-cpu==1.9.0.post1
+rank-bm25==0.2.2
+
+# =========================
+# DATA
+# =========================
+numpy==1.26.4
+pandas==2.2.3
+pypdf==5.1.0
+
+# =========================
+# TOKENIZER
+# =========================
+tiktoken==0.8.0
+
+# =========================
+# HTTP
+# =========================
+httpx==0.27.2
+requests==2.32.3
+
+# =========================
+# FILE UPLOAD
+# =========================
+python-multipart==0.0.12
+
+# =========================
+# OPTIONAL UI
+# =========================
+streamlit==1.41.1
+# Evaluation metrics
+bert-score==0.3.12
+rouge-score==0.1.2
